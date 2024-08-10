@@ -62,7 +62,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Screenshots
 
 ![Game Screenshot01](https://github.com/Malitha-Gunathilaka/XOX-Game____React-Expo/blob/master/s1.jpg) 
+##
 ![Game Screenshot02](https://github.com/Malitha-Gunathilaka/XOX-Game____React-Expo/blob/master/s2.jpg)
+##
 ![Game Screenshot02](https://github.com/Malitha-Gunathilaka/XOX-Game____React-Expo/blob/master/s3.jpg)
 
 
