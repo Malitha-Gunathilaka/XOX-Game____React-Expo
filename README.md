@@ -61,12 +61,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Screenshots
 
-Include screenshots of your app to give users a preview of the game. You can add them here using the following markdown:
+![Game Screenshot01](https://github.com/Malitha-Gunathilaka/XOX-Game____React-Expo/blob/master/s1.jpg) 
+![Game Screenshot02](https://github.com/Malitha-Gunathilaka/XOX-Game____React-Expo/blob/master/s2.jpg)
+![Game Screenshot02](https://github.com/Malitha-Gunathilaka/XOX-Game____React-Expo/blob/master/s3.jpg)
 
-```markdown
-![Game Screenshot]https://github.com/Malitha-Gunathilaka/XOX-Game____React-Expo/blob/master/s1.jpg ,
-s2.jpg
-```
+
 
 ## Acknowledgments
 
