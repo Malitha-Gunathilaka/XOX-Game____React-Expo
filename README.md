@@ -64,7 +64,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Include screenshots of your app to give users a preview of the game. You can add them here using the following markdown:
 
 ```markdown
-![Game Screenshot](path_to_screenshot.png)
+![Game Screenshot](s1.jpg)
 ```
 
 ## Acknowledgments
